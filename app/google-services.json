@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "729216990389",
+    "project_id": "fir-todoapp-55a6d",
+    "storage_bucket": "fir-todoapp-55a6d.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729216990389:android:58b60af5fa1e269237d2fc",
+        "android_client_info": {
+          "package_name": "com.shah.firebasetodoapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD1GLCvt3-uY9z0RRT10CLFq2fcoI38Qok"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
